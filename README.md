@@ -1,4 +1,4 @@
-# STARTER-jpa04
+# jpa04-jiwa310
 
 Running at: <https://jpa04-jiwa310.dokku-05.cs.ucsb.edu>
 
